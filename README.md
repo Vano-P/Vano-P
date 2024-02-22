@@ -6,7 +6,11 @@
 -->
 I'm Vano from Armenia
 
-- 🔭 I’m currently working on this page. - 🌱 I’m currently learning Next.js 
+- 🔭 I’m currently working on this page. - 🌱 I’m currently learning Next.js
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vano-P&layout=compact&theme=transparent)
 
 
 <!--
