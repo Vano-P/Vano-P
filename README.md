@@ -1,7 +1,9 @@
 ### Hi there 👋, Vano-P
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+<!--Baner
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+-->
 I'm Vano from Armenia
 
 - 🔭 I’m currently working on this page. - 🌱 I’m currently learning Next.js 
@@ -29,8 +31,18 @@ I'm Vano from Armenia
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Vano-P)  
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P)](https://github.com/Vano-P/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true&theme=transparent)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true&theme=radical)
+
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
