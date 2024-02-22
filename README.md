@@ -21,7 +21,6 @@ I'm Vano from Armenia
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vano-P)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vano-P)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true) 
@@ -31,18 +30,8 @@ I'm Vano from Armenia
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Vano-P)  
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true&theme=radical)
 
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
