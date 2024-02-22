@@ -28,3 +28,9 @@ I'm Vano from Armenia
 <!--
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Vano-P)  
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P)](https://github.com/Vano-P/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vano-P&show_icons=true&theme=radical)
